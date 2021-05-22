@@ -112,12 +112,12 @@ class Profile extends React.Component {
                           <span className="description">Friends</span>
                         </div>
                         <div>
-                          <span className="heading">15</span>
-                          <span className="description">reposatory</span>
+                          <span className="heading">10</span>
+                          <span className="description">Photos</span>
                         </div>
                         <div>
-                          <span className="heading">2</span>
-                          <span className="description">Project</span>
+                          <span className="heading">89</span>
+                          <span className="description">Comments</span>
                         </div>
                       </div>
                     </Col>
@@ -125,7 +125,7 @@ class Profile extends React.Component {
                   <div className="text-center mt-5">
                     <h3>
                       Mohammad Zytoon{" "}
-                      <span className="font-weight-light">, 28</span>
+                      <span className="font-weight-light">, 27</span>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
@@ -144,11 +144,11 @@ class Profile extends React.Component {
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          {/* An artist of considerable range, Ryan — the name taken
+                          An artist of considerable range, Ryan — the name taken
                           by Melbourne-raised, Brooklyn-based Nick Murphy —
                           writes, performs and records all of his own music,
                           giving it a warm, intimate feel with a solid groove
-                          structure. An artist of considerable range. */}
+                          structure. An artist of considerable range.
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
